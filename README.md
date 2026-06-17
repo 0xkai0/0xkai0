@@ -23,40 +23,45 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats & Grind</h3>
+<h3 align="center">Technologies</h3>
 
+<h4 align="center">Core Technologies</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x0xkai0&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=999999&hide_border=true" alt="GitHub Stats" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xkai0&theme=tokyonight&background=0d1117&title=ffffff&text=999999&sideNums=ffffff&sideLabels=999999&dates=999999&ring=ffffff&fire=ffffff&stroke=000000&hide_border=true" alt="GitHub Streak" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xkai0&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=999999&hide_border=true" alt="Top Languages" width="32%" />
+  <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+<h4 align="center">Frameworks & Libraries</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/jQuery-black?style=flat-square&logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
+
+<h4 align="center">Team Collaboration</h4>
+<p align="center">
+  Looking forward to have a collaboration.
 </p>
 
 ---
 
-<h3 align="center">🧪 Epic Projects & Quests</h3>
-
-* 🚀 **Project One** : توضیحات پروژه اول خودت را اینجا بنویس (مثلاً: وب‌سایت طراحی شده با ری‌اکت)
-* 🐍 **Python Automation Tool** : توضیحات پروژه پایتونی خودت را اینجا بنویس
-* 🌐 **Responsive Web App** : طراحی فرانت‌اند با استفاده از Bootstrap و jQuery
-
-<p align="center"><i>Level up with my <a href="https://github.com/0xkai0?tab=repositories">repos</a>!</i></p>
-
----
-
-<h3 align="center">🎯 My Mission & Endgame</h3>
-
-* ⚡ **Grinding Now:** Mastering Full-Stack Web Development and diving deeper into Python automation.
-* 🏆 **Ultimate Quest:** Build efficient, clean, and user-centric web applications that solve real-world problems.
-* 🛠️ **Side Quests:** Contributing to open-source projects and sharpening frontend UI skills.
-
----
-
-<h3 align="center">🤝 Let's Team Up!</h3>
-
-<p align="center">Ready to vibe on code, web development, or Python? Hit me up! 💬</p>
-
+<h3 align="center">Statistics</h3>
+<h4 align="center">Kai's GitHub Stats</h4>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xkai0&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=999999&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xkai0&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=999999&hide_border=true" alt="GitHub Stats" width="48%" />
+</p>
+
+<h4 align="center">🔥 Contribution Streak</h4>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xkai0&theme=tokyonight" alt="GitHub Streak" width="97%" />
+</p>
+
+<h4 align="center">📊 Contribution Graph</h4>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xkai0&theme=react-dark&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true" alt="Contribution Graph" width="97%" />
 </p>
