@@ -4,7 +4,8 @@
 </p>
 
 
-##<p align="center">
+##
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Well%2C+hello+there!;<font+face%3D%22Orbitron%22>Welcome+to+my+space;Frontend+Developer" alt="Typing SVG" />
 </p>
 I'm currently a Computer engineering student and I'm trying to learn web development.
