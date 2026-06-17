@@ -5,7 +5,9 @@
 
 
 ##
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=27&pause=1000&color=FFE81F&width=435&lines=Well%2C+hello+there!)
+<p align="center">
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=27&pause=1000&color=FFE81F&width=435&center=true&vCenter=true&lines=Well%2C+hello+there!)
+</p>
 
 I'm currently a Computer engineering student and I'm trying to learn web development.
 
