@@ -65,3 +65,13 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xkai0&theme=react-dark&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true" alt="Contribution Graph" width="97%" />
 </p>
+##
+<h3 align="center">🤝 Let's Team Up!</h3>
+<p align="center">Ready to vibe on code, web development, or Python? Hit me up! 💬</p>
+
+<p align="center">
+  <a href="https://twitter.com/RunDannyRun"><img src="https://img.shields.io/badge/Twitter/X-black?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
+  <a href="https://t.me/umidkwhatisthishellcalled"><img src="https://img.shields.io/badge/Telegram-black?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.linkedin.com/in/baharak-shafei-70b348361"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:baharakshafei74@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
