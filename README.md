@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="![Uploading photo_2026-06-17_22-08-11.jpg…]()" width="100%">
+  <img src="<img width="1280" height="688" alt="photo_2026-06-17_22-08-11" src="https://github.com/user-attachments/assets/66b42063-2253-4140-9dc0-07a557dbbf73" />" width="100%">
 </p>
 
 
