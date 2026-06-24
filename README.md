@@ -66,7 +66,6 @@
 <p align="center">Ready to vibe on code, web development, or Python? Hit me up! 💬</p>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/baharak-shafei-70b348361"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:baharakshafei74@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
