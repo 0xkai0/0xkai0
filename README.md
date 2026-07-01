@@ -56,8 +56,11 @@
 </p>
 
 <h4 align="center">📊 Contribution Graph</h4>
+
 <p align="center">
-  <img src="https://github-style-readme-activity-graph.vercel.app/graph?username=0xkai0&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="97%" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xkai0&theme=react-dark&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true" alt="Contribution Graph" width="97%" />
+
 </p>
 
 <h3 align="center">🤝 Let's Team Up!</h3>
